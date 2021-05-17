@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My Application</string>
+    <string name="false_text">FALSE</string>
+    <string name="true_text">TRUE</string>
+    <string name="previous_text">previous</string>
+    <string name="question_declaration">Studiul plantelor este cunoscut sub numele de botanică.</string>
+    <string name="question_temp">Kelvin este măsura temperaturii.</string>//True
+    <string name="question_body">Scheletul uman este alcătuit din mai puțin de 100 de oase.</string>//False-206
+    <string name="question_physics">Albert Einstein a primit premiul Nobel pentru fizică.</string>//True
+    <string name="question_human">Corpul uman are patru plămân.</string> False
+    <string name="question_spider">Păianjenul are șase picioare.</string> //False- 8
+    <string name="question_water">Apa este un exemplu de element chimic.</string> // False
+    <string name="question_shark">Rechinii sunt mamifere.</string> //False
+    <string name="question_planet">Venus este cea mai apropiată planetă de soare.</string>//False
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="next_text">next</string>
+    <string name="question_declaration" />
+
+</resources>
